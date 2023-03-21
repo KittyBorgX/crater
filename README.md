@@ -1,2 +1,2 @@
 # crater
-A tiny package manager for rust in rust
+A package manager for javvascript/typescript written in rust
