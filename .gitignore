@@ -13,3 +13,9 @@ Cargo.lock
 # Added by cargo
 
 /target
+
+# Since we're working with javascript
+# Root level
+node_modules/
+# Sub folder level
+**/node_modules/
