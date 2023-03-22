@@ -1,5 +1,5 @@
 # crater
-A package manager for javvascript/typescript written in rust
+A package manager for javascript/typescript written in rust
 
 ### Roadmap
 - [ ] Download packages into `node_modules`
